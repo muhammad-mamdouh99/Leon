@@ -5,6 +5,7 @@
 - Responsive Website Using HTML and CSS.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- I built this project on linux and deployed it using [surge][surge].
 
 <!-- Social Media -->
 
@@ -14,8 +15,14 @@
 <!-- Notes -->
 
 > This project is inspired from This [PSD][leon].
-> I built this project on linux and deployed it using [surge][surge].
-> [Live Demo][demo]
+
+<!-- Live Demo -->
+
+[Live Demo][demo]
+
+<!-- Screen Shot -->
+
+![screen shot](./Leon.png)
 
 <!-- Links -->
 
@@ -24,9 +31,3 @@
 [leon]: https://www.graphberry.com/item/leon-psd-agency-template
 [surge]: https://surge.sh/
 [demo]: https://magnificent-leon.surge.sh/
-
-<!-- Live Demo -->
-
-<!-- Screen Shot -->
-
-![screen shot](./Leon.png)
