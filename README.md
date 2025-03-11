@@ -9,8 +9,9 @@
 
 <!-- Social Media -->
 
-💙 Follow me on Twitter. [@weirdocodes][twitter]
-💙 Connect with me on LinkedIn . [@muhammad-mamdouh99][linkedin]
+💚 Follow me on Twitter. [@weirdocodes][twitter]
+<br>
+💚 Connect with me on LinkedIn . [@muhammad-mamdouh99][linkedin]
 
 <!-- Notes -->
 
